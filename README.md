@@ -64,7 +64,7 @@ This project analyzes 2,739 sales records from a Superstore dataset and visualiz
 ---
 
 ## 👤 Author
-**Raj Pandey**  
+**Raj Lalji Pandey**  
 📧 Email: rajlaljipandey@gmail.com
 🔗 LinkedIn: https://www.linkedin.com/in/raj-pandey-51288a237/
 
